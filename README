@@ -36,7 +36,7 @@ git checkout --.or<파일명> : 작업 내역에 문제가 있을 때 마지막�
 
 git log : 커밋 이력을 보는 명령어
 git log -p : 
-git log --pretty : 
+git log --pretty :  
 git log -[숫자] : 
 git log --grap : 커밋을 그래프로
 
