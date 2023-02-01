@@ -14,3 +14,8 @@
 ->modified : README : 작업이력과 저장소 이력이 다르다. -> 저장해라!
 6. git add README : staged modified: 추적
 7. git commit -m ("README 수정 후 저장") 
+
+** 파일 생성 후 저장
+untracked -> staged -> committed (clean work directory)
+** 파일 수정 후 저장
+untracked(modified) -> staged(modified) -> unmodified(committed)
